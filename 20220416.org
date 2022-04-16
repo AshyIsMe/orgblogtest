@@ -1,0 +1,16 @@
+#+STARTUP: inlineimages
+
+* 2022-04-16 Saturday
+
+This is a dumb blog post test of orgmode.  Orgmode docs are directly rendered on github repos and can be dumped to static html easily.
+** How do they look?
+
+#+begin_src
+NB. j code: https://www.jsoftware.com/
+load'plot'
+plot (2 o. 0.1*i.420) ,. 1 o. 0.1*i.420
+#+end_src
+[[file:pics/Screen Shot 2022-01-16 at 11.34.57 am.png]]
+** So pretty bad by default apparently
+*** TODO Export with mediawiki style
+See this glorious example: https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
