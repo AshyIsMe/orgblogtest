@@ -1,4 +1,5 @@
 #+title: Readme
+#+html_head: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.css">
 
 
 * static blog with orgmode

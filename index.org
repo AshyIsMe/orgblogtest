@@ -1,4 +1,7 @@
 #+title: Org Mode Blog
+#+html_head: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.css">
+
+
 
 * [[file:20220416.html][2022-04-16]]
 ** [[file:20220416.pdf][2022-04-16 (pdf)]]
