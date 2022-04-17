@@ -1,5 +1,5 @@
 #+title: Org Mode Blog
-#+html_head: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.css">
+#+html_head: <link rel="stylesheet" href="org.css">
 
 
 

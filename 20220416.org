@@ -1,5 +1,5 @@
 #+STARTUP: inlineimages
-#+html_head: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.css">
+#+html_head: <link rel="stylesheet" href="org.css">
 
 * 2022-04-16 Saturday
 
