@@ -8,6 +8,7 @@
 
 (specifications->manifest
   (list "emacs"
+        "texlive-bin"
         "texlive-latex-base"
         "texlive-ulem"
         ))
