@@ -1,0 +1,14 @@
+#+title: Readme
+
+
+* static blog with orgmode
+
+** Components:
+- doom-emacs
+- texlive "recommended" and latex "recommended" packages
+
+* Usage
+
+Write orgmode files as per normal.
+
+Export to html and/or pdf with `org-export-dispatch (SPC m e)`.
