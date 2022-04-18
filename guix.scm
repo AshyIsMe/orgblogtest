@@ -7,8 +7,9 @@
 (use-modules (gnu packages))
 
 (specifications->manifest
-  (list "emacs"
+  (list
+        "emacs"
+        "tectonic"
+        "texlive"
         "texlive-bin"
-        "texlive-latex-base"
-        "texlive-ulem"
         ))
